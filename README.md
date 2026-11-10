@@ -13,4 +13,5 @@ polymorphism,
 aggregation,
 Composition
 
+```bash
 python main.py
