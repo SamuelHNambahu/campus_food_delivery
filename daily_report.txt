@@ -1,0 +1,4 @@
+Daily Summary for CampusEats
+Total orders: 0
+Total revenue: N$ 0.00
+Average order value: N$ 0.00

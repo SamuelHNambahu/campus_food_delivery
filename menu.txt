@@ -1,0 +1,3 @@
+101,Beef Burger,55.0
+102,Chips,20.0
+103,Milkshake,30.0
