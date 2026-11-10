@@ -12,3 +12,5 @@ Inheritance,
 polymorphism,
 aggregation,
 Composition
+
+python main.py
